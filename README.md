@@ -1,5 +1,10 @@
 # 🍕 pizza-order
 
+https://github.com/hyunyy1/pizza-order/assets/79568825/f338810e-6d10-481c-99da-e3d93353be86
+
+
+https://github.com/hyunyy1/pizza-order/assets/79568825/612b3690-2063-471c-94ea-a687758f5442
+
 
 
 ## demo
